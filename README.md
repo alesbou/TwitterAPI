@@ -1,2 +1,2 @@
 # TwitterAPI
-Trying to do Twitter Data
+Trying to get Twitter Data
